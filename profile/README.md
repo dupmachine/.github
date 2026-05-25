@@ -2,40 +2,17 @@
 
 # Dupmachine
 
-**Personal operations stack for a self-hosted life.**
-
-Infrastructure, knowledge, media, automation, and AI workflows maintained as one coherent system.
-
-[dupmachine.com](https://dupmachine.com)
-
 </div>
 
 ---
 
-Dupmachine is a private lab for running everyday life through owned infrastructure: servers, dashboards, automations, archives, agents, and small tools that make the system easier to operate.
-
-Most repositories here are private because they contain personal infrastructure, data pipelines, or operational context. Public projects appear when a tool is useful outside the stack.
-
-## Areas
-
-| Area | Focus |
+| Repository | Actions |
 |---|---|
-| Infrastructure | Docker services, monitoring, dashboards, DNS, access, deployment |
-| Automation | Home Assistant, voice interfaces, reminders, recurring workflows |
-| Knowledge | Notes, archives, feeds, timelines, retrieval and synthesis |
-| Media | Libraries, watchlists, downloads, listening and reading workflows |
-| Agents | Role-based assistants, command tools, AI usage, coding workflows |
-
-## Public Work
-
-| Repository | Notes |
-|---|---|
-| [`starcast`](https://github.com/dupmachine/starcast) | Public experiment from the Dupmachine stack |
-
-## Principles
-
-- Own the stack.
-- Prefer small tools that are actually used.
-- Keep systems observable, replaceable, and documented.
-- Turn repeated operations into commands.
-
+| [`docker-apps`](https://github.com/dupmachine/docker-apps) | [![CD](https://github.com/dupmachine/docker-apps/workflows/CD/badge.svg)](https://github.com/dupmachine/docker-apps/actions/workflows/cd.yml) |
+| [`rastlos`](https://github.com/dupmachine/rastlos) | [![Publish image](https://github.com/dupmachine/rastlos/workflows/Publish%20image/badge.svg)](https://github.com/dupmachine/rastlos/actions/workflows/publish.yml) |
+| [`glance-config`](https://github.com/dupmachine/glance-config) | [![CD](https://github.com/dupmachine/glance-config/workflows/CD/badge.svg)](https://github.com/dupmachine/glance-config/actions/workflows/cd.yml) |
+| [`gatus-config`](https://github.com/dupmachine/gatus-config) | [![CD](https://github.com/dupmachine/gatus-config/workflows/CD/badge.svg)](https://github.com/dupmachine/gatus-config/actions/workflows/cd.yml) |
+| [`homepage-config`](https://github.com/dupmachine/homepage-config) | [![CD](https://github.com/dupmachine/homepage-config/workflows/CD/badge.svg)](https://github.com/dupmachine/homepage-config/actions/workflows/cd.yml) |
+| [`starcast-xbox`](https://github.com/dupmachine/starcast-xbox) | [![Lint Playbooks](https://github.com/dupmachine/starcast-xbox/workflows/Lint%20Playbooks/badge.svg)](https://github.com/dupmachine/starcast-xbox/actions/workflows/lint-playbooks.yml) [![On Issue Opened](https://github.com/dupmachine/starcast-xbox/workflows/On%20Issue%20Opened/badge.svg)](https://github.com/dupmachine/starcast-xbox/actions/workflows/on-issue-opened.yml) [![Pipeline](https://github.com/dupmachine/starcast-xbox/workflows/Pipeline/badge.svg)](https://github.com/dupmachine/starcast-xbox/actions/workflows/pipeline.yml) |
+| [`homer-assets`](https://github.com/dupmachine/homer-assets) | [![CD](https://github.com/dupmachine/homer-assets/workflows/CD/badge.svg)](https://github.com/dupmachine/homer-assets/actions/workflows/cd.yml) |
+| [`dupmachine.com`](https://github.com/dupmachine/dupmachine.com) | [![CD](https://github.com/dupmachine/dupmachine.com/workflows/CD/badge.svg)](https://github.com/dupmachine/dupmachine.com/actions/workflows/cd.yml) [![CI](https://github.com/dupmachine/dupmachine.com/workflows/CI/badge.svg)](https://github.com/dupmachine/dupmachine.com/actions/workflows/ci.yml) [![Dependabot Updates](https://github.com/dupmachine/dupmachine.com/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/dupmachine/dupmachine.com/actions/workflows/dependabot/dependabot-updates) |
