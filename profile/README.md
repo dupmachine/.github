@@ -9,7 +9,7 @@
 | Repository | Actions |
 |---|---|
 | [`docker-apps`](https://github.com/dupmachine/docker-apps) | [![CD](https://github.com/dupmachine/docker-apps/workflows/CD/badge.svg)](https://github.com/dupmachine/docker-apps/actions/workflows/cd.yml) |
-| [`rastlos`](https://github.com/dupmachine/rastlos) | [![Publish image](https://github.com/dupmachine/rastlos/workflows/Publish%20image/badge.svg)](https://github.com/dupmachine/rastlos/actions/workflows/publish.yml) |
+| [`sampler`](https://github.com/dupmachine/sampler) | [![Publish image](https://github.com/dupmachine/sampler/workflows/Publish%20image/badge.svg)](https://github.com/dupmachine/sampler/actions/workflows/publish.yml) |
 | [`glance-config`](https://github.com/dupmachine/glance-config) | [![CD](https://github.com/dupmachine/glance-config/workflows/CD/badge.svg)](https://github.com/dupmachine/glance-config/actions/workflows/cd.yml) |
 | [`gatus-config`](https://github.com/dupmachine/gatus-config) | [![CD](https://github.com/dupmachine/gatus-config/workflows/CD/badge.svg)](https://github.com/dupmachine/gatus-config/actions/workflows/cd.yml) |
 | [`homepage-config`](https://github.com/dupmachine/homepage-config) | [![CD](https://github.com/dupmachine/homepage-config/workflows/CD/badge.svg)](https://github.com/dupmachine/homepage-config/actions/workflows/cd.yml) |
